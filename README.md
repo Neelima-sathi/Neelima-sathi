@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neelima-sathi
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning python
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning Nxtwave ccbp 4.0 Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she
